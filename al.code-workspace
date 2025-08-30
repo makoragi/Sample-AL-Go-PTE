@@ -4,6 +4,9 @@
       "path": "Sample-AL-Go-PTE"
     },
     {
+      "path": "Sample-AL-Go-PTE.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
